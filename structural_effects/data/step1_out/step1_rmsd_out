@@ -1,0 +1,22 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start FoldX RMSD >>>
+
+1 models read: nsp5_original.pdb
+1 models read: nsp5_original_1.pdb
+KabschRMSDCalculator
+rmsd: 1.83112e-15

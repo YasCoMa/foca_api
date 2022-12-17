@@ -1,0 +1,7 @@
+Binding sites and druggable pockets analysis
+	Results for reference structure:
+		Druggable pockets: see their center coordinates in step2_table_druggable_reference.tsv
+		All pockets: see their center coordinates in step2_table_pockets_reference.tsv
+	Results for mutated structure:
+		Druggable pockets: see their center coordinates in step2_table_druggable_mutated.tsv
+		All pockets: see their center coordinates in step2_table_pockets_mutated.tsv

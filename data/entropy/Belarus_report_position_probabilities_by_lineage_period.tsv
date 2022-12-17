@@ -1,0 +1,133 @@
+Lineage	Month	Year	Protein	Position	Entropy	AA Group Change	AA Change	Count	Proportion
+B.1.1.7	2	2021	Spike	69	-0.000	Positive Charge to 	H to del	3	1.0
+B.1.1.7	2	2021	Spike	716	-0.000	Polar to Non Polar	T to I	3	1.0
+B.1.1.7	2	2021	Spike	570	-0.000	Non Polar to Negative Charge	A to D	3	1.0
+B.1.1.7	2	2021	Spike	501	-0.000	Polar to Polar	N to Y	3	1.0
+B.1.1.7	2	2021	Spike	681	-0.000	Non Polar to Positive Charge	P to H	3	1.0
+B.1.1.7	2	2021	Spike	144	-0.000	Polar to 	Y to del	3	1.0
+B.1.1.7	2	2021	Spike	1118	-0.000	Negative Charge to Positive Charge	D to H	3	1.0
+B.1.1.7	2	2021	Spike	70	-0.000	Non Polar to 	V to del	3	1.0
+B.1.1.7	2	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	3	1.0
+B.1.1.7	2	2021	Spike	982	-0.000	Polar to Non Polar	S to A	3	1.0
+B.1.1.7	2	2021	Spike	653	-0.000	Non Polar to Non Polar	A to V	2	1.0
+B.1.1.7	2	2021	NS8	27	-0.000	Polar to 	Q to stop	3	1.0
+B.1.1.7	2	2021	NS8	68	-0.000	Positive Charge to 	K to stop	2	1.0
+B.1.1.7	2	2021	NS8	52	-0.000	Positive Charge to Non Polar	R to I	3	1.0
+B.1.1.7	2	2021	NS8	73	-0.000	Polar to Non Polar	Y to C	3	1.0
+B.1.1.7	2	2021	NSP3	183	-0.000	Polar to Non Polar	T to I	3	1.0
+B.1.1.7	2	2021	NSP3	1412	-0.000	Non Polar to Polar	I to T	3	1.0
+B.1.1.7	2	2021	NSP3	890	-0.000	Non Polar to Negative Charge	A to D	3	1.0
+B.1.1.7	2	2021	NSP3	1217	-0.000	Non Polar to Positive Charge	G to R	1	1.0
+B.1.1.7	2	2021	NSP6	106	-0.000	Polar to 	S to del	3	1.0
+B.1.1.7	2	2021	NSP6	107	-0.000	Non Polar to 	G to del	3	1.0
+B.1.1.7	2	2021	NSP6	108	-0.000	Non Polar to 	F to del	3	1.0
+B.1.1.7	2	2021	NSP6	37	-0.000	Non Polar to Non Polar	L to F	1	1.0
+B.1.1.7	2	2021	N	203	-0.000	Positive Charge to Positive Charge	R to K	3	1.0
+B.1.1.7	2	2021	N	204	-0.000	Non Polar to Positive Charge	G to R	3	1.0
+B.1.1.7	2	2021	N	3	-0.000	Negative Charge to Non Polar	D to L	3	1.0
+B.1.1.7	2	2021	N	235	-0.000	Polar to Non Polar	S to F	3	1.0
+B.1.1.7	2	2021	NSP12	227	-0.000	Non Polar to Non Polar	P to L	2	1.0
+B.1.1.7	2	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	3	1.0
+B.1.1.7	2	2021	NSP14	451	-0.000	Non Polar to Polar	P to S	2	1.0
+B.1.1.7	2	2021	M	33	-0.000	Non Polar to Polar	C to S	1	1.0
+B.1.1.7	3	2021	NS8	27	-0.000	Polar to 	Q to stop	8	1.0
+B.1.1.7	3	2021	NS8	52	-0.000	Positive Charge to Non Polar	R to I	8	1.0
+B.1.1.7	3	2021	NS8	68	-0.000	Positive Charge to 	K to stop	7	1.0
+B.1.1.7	3	2021	NS8	73	-0.000	Polar to Non Polar	Y to C	7	1.0
+B.1.1.7	3	2021	NS8	115	-0.000	Positive Charge to Positive Charge	R to H	1	1.0
+B.1.1.7	3	2021	NSP3	183	-0.000	Polar to Non Polar	T to I	8	1.0
+B.1.1.7	3	2021	NSP3	890	-0.000	Non Polar to Negative Charge	A to D	8	1.0
+B.1.1.7	3	2021	NSP3	1412	-0.000	Non Polar to Polar	I to T	8	1.0
+B.1.1.7	3	2021	NSP6	107	-0.000	Non Polar to 	G to del	8	1.0
+B.1.1.7	3	2021	NSP6	106	-0.000	Polar to 	S to del	8	1.0
+B.1.1.7	3	2021	NSP6	108	-0.000	Non Polar to 	F to del	8	1.0
+B.1.1.7	3	2021	Spike	716	-0.000	Polar to Non Polar	T to I	8	1.0
+B.1.1.7	3	2021	Spike	570	-0.000	Non Polar to Negative Charge	A to D	7	1.0
+B.1.1.7	3	2021	Spike	681	-0.000	Non Polar to Positive Charge	P to H	8	1.0
+B.1.1.7	3	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	8	1.0
+B.1.1.7	3	2021	Spike	982	-0.000	Polar to Non Polar	S to A	8	1.0
+B.1.1.7	3	2021	Spike	653	-0.000	Non Polar to Non Polar	A to V	6	1.0
+B.1.1.7	3	2021	Spike	1118	-0.000	Negative Charge to Positive Charge	D to H	6	1.0
+B.1.1.7	3	2021	Spike	69	-0.000	Positive Charge to 	H to del	3	1.0
+B.1.1.7	3	2021	Spike	501	-0.000	Polar to Polar	N to Y	5	1.0
+B.1.1.7	3	2021	Spike	70	-0.000	Non Polar to 	V to del	3	1.0
+B.1.1.7	3	2021	Spike	144	-0.000	Polar to 	Y to del	2	1.0
+B.1.1.7	3	2021	Spike	19	-0.000	Polar to Positive Charge	T to R	1	1.0
+B.1.1.7	3	2021	Spike	452	-0.000	Non Polar to Positive Charge	L to R	1	1.0
+B.1.1.7	3	2021	N	203	-0.000	Positive Charge to Positive Charge	R to K	8	1.0
+B.1.1.7	3	2021	N	204	-0.000	Non Polar to Positive Charge	G to R	8	1.0
+B.1.1.7	3	2021	N	3	-0.000	Negative Charge to Non Polar	D to L	8	1.0
+B.1.1.7	3	2021	N	235	-0.000	Polar to Non Polar	S to F	8	1.0
+B.1.1.7	3	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	8	1.0
+B.1.1.7	3	2021	NSP12	227	-0.000	Non Polar to Non Polar	P to L	7	1.0
+B.1.1.7	3	2021	NSP14	453	-0.000	Negative Charge to Negative Charge	E to D	1	1.0
+B.1.1.7	3	2021	NSP14	451	-0.000	Non Polar to Polar	P to S	6	1.0
+B.1.1.7	3	2021	NS3	175	-0.000	Polar to Non Polar	T to I	2	1.0
+B.1.1.7	3	2021	NS3	12	-0.000	Polar to Non Polar	T to A	2	1.0
+B.1.1.7	3	2021	NS7a	22	-0.000	Negative Charge to Negative Charge	E to D	2	1.0
+B.1.1.7	3	2021	NS7a	104	-0.000	Non Polar to Non Polar	V to L	1	1.0
+B.1.1.7	3	2021	NS7a	103	-0.000	Non Polar to Non Polar	I to L	1	1.0
+B.1.1.7	3	2021	NSP4	393	-0.000	Non Polar to Non Polar	F to L	1	1.0
+B.1.1.7	3	2021	NSP10	102	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.1.7	5	2021	NS8	27	-0.000	Polar to 	Q to stop	3	1.0
+B.1.1.7	5	2021	NS8	68	-0.000	Positive Charge to 	K to stop	2	1.0
+B.1.1.7	5	2021	NS8	52	-0.000	Positive Charge to Non Polar	R to I	3	1.0
+B.1.1.7	5	2021	NS8	73	-0.000	Polar to Non Polar	Y to C	2	1.0
+B.1.1.7	5	2021	NSP3	183	-0.000	Polar to Non Polar	T to I	3	1.0
+B.1.1.7	5	2021	NSP3	1412	-0.000	Non Polar to Polar	I to T	3	1.0
+B.1.1.7	5	2021	NSP3	890	-0.000	Non Polar to Negative Charge	A to D	3	1.0
+B.1.1.7	5	2021	NSP3	29	-0.000	Negative Charge to Non Polar	E to G	2	1.0
+B.1.1.7	5	2021	NSP3	913	-0.000	Polar to Non Polar	T to A	1	1.0
+B.1.1.7	5	2021	Spike	716	-0.000	Polar to Non Polar	T to I	3	1.0
+B.1.1.7	5	2021	Spike	570	-0.000	Non Polar to Negative Charge	A to D	3	1.0
+B.1.1.7	5	2021	Spike	501	-0.000	Polar to Polar	N to Y	3	1.0
+B.1.1.7	5	2021	Spike	681	-0.000	Non Polar to Positive Charge	P to H	3	1.0
+B.1.1.7	5	2021	Spike	19	-0.000	Polar to Positive Charge	T to R	2	1.0
+B.1.1.7	5	2021	Spike	1118	-0.000	Negative Charge to Positive Charge	D to H	3	1.0
+B.1.1.7	5	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	3	1.0
+B.1.1.7	5	2021	Spike	982	-0.000	Polar to Non Polar	S to A	1	1.0
+B.1.1.7	5	2021	Spike	653	-0.000	Non Polar to Non Polar	A to V	3	1.0
+B.1.1.7	5	2021	NSP6	106	-0.000	Polar to 	S to del	3	1.0
+B.1.1.7	5	2021	NSP6	107	-0.000	Non Polar to 	G to del	3	1.0
+B.1.1.7	5	2021	NSP6	108	-0.000	Non Polar to 	F to del	3	1.0
+B.1.1.7	5	2021	N	203	-0.000	Positive Charge to Positive Charge	R to K	3	1.0
+B.1.1.7	5	2021	N	204	-0.000	Non Polar to Positive Charge	G to R	3	1.0
+B.1.1.7	5	2021	N	3	-0.000	Negative Charge to Non Polar	D to L	2	1.0
+B.1.1.7	5	2021	N	235	-0.000	Polar to Non Polar	S to F	3	1.0
+B.1.1.7	5	2021	NS7a	121	-0.000	Negative Charge to Polar	E to Q	1	1.0
+B.1.1.7	5	2021	NS7a	115	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.1.7	5	2021	NSP12	227	-0.000	Non Polar to Non Polar	P to L	3	1.0
+B.1.1.7	5	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	3	1.0
+B.1.1.7	5	2021	NS7b	23	-0.000	Non Polar to Non Polar	I to V	1	1.0
+B.1.1.7	5	2021	NS7b	20	-0.000	Non Polar to Non Polar	L to F	2	1.0
+B.1.1.7	5	2021	NSP14	451	-0.000	Non Polar to Polar	P to S	3	1.0
+B.1.1.7	4	2021	NS8	27	-0.000	Polar to 	Q to stop	5	1.0
+B.1.1.7	4	2021	NS8	68	-0.000	Positive Charge to 	K to stop	3	1.0
+B.1.1.7	4	2021	NS8	52	-0.000	Positive Charge to Non Polar	R to I	5	1.0
+B.1.1.7	4	2021	NS8	73	-0.000	Polar to Non Polar	Y to C	4	1.0
+B.1.1.7	4	2021	NSP3	183	-0.000	Polar to Non Polar	T to I	5	1.0
+B.1.1.7	4	2021	NSP3	1412	-0.000	Non Polar to Polar	I to T	5	1.0
+B.1.1.7	4	2021	NSP3	890	-0.000	Non Polar to Negative Charge	A to D	5	1.0
+B.1.1.7	4	2021	Spike	716	-0.000	Polar to Non Polar	T to I	5	1.0
+B.1.1.7	4	2021	Spike	570	-0.000	Non Polar to Negative Charge	A to D	4	1.0
+B.1.1.7	4	2021	Spike	681	-0.000	Non Polar to Positive Charge	P to H	4	1.0
+B.1.1.7	4	2021	Spike	1118	-0.000	Negative Charge to Positive Charge	D to H	5	1.0
+B.1.1.7	4	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	5	1.0
+B.1.1.7	4	2021	Spike	982	-0.000	Polar to Non Polar	S to A	4	1.0
+B.1.1.7	4	2021	Spike	1027	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.1.7	4	2021	Spike	501	-0.000	Polar to Polar	N to Y	4	1.0
+B.1.1.7	4	2021	Spike	653	-0.000	Non Polar to Non Polar	A to V	2	1.0
+B.1.1.7	4	2021	NSP6	106	-0.000	Polar to 	S to del	5	1.0
+B.1.1.7	4	2021	NSP6	107	-0.000	Non Polar to 	G to del	5	1.0
+B.1.1.7	4	2021	NSP6	108	-0.000	Non Polar to 	F to del	5	1.0
+B.1.1.7	4	2021	NSP6	198	-0.000	Non Polar to Non Polar	P to L	1	1.0
+B.1.1.7	4	2021	N	203	-0.000	Positive Charge to Positive Charge	R to K	5	1.0
+B.1.1.7	4	2021	N	204	0.722	Non Polar to Positive Charge	G to R	4	0.8
+B.1.1.7	4	2021	N	204	0.722	Non Polar to Non Polar	G to P	1	0.2
+B.1.1.7	4	2021	N	3	-0.000	Negative Charge to Non Polar	D to L	5	1.0
+B.1.1.7	4	2021	N	235	-0.000	Polar to Non Polar	S to F	5	1.0
+B.1.1.7	4	2021	NSP12	227	-0.000	Non Polar to Non Polar	P to L	3	1.0
+B.1.1.7	4	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	5	1.0
+B.1.1.7	4	2021	NSP14	451	-0.000	Non Polar to Polar	P to S	3	1.0
+B.1.1.7	4	2021	NS3	12	-0.000	Polar to Non Polar	T to A	1	1.0
+B.1.1.7	4	2021	NSP10	102	-0.000	Polar to Non Polar	T to I	1	1.0

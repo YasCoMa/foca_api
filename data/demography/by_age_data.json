@@ -1,0 +1,1 @@
+{"labels": ["Child/Adolescent", "Adult", "Elderly"], "datasets": [{"label": "Male", "backgroundColor": "#0A2239", "borderColor": "#0A2239", "borderWidth": 1, "data": [2480, 19139, 4947]}, {"label": "Female", "backgroundColor": "#53A2BE", "borderColor": "#53A2BE", "borderWidth": 1, "data": [2535, 22044, 5244]}]}

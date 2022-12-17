@@ -1,0 +1,1 @@
+{"labels": ["Mild/Alive", "Hospitalized", "Deceased"], "datasets": [{"label": "Male", "backgroundColor": "#0A2239", "borderColor": "#0A2239", "borderWidth": 1, "data": [1849, 783, 340]}, {"label": "Female", "backgroundColor": "#53A2BE", "borderColor": "#53A2BE", "borderWidth": 1, "data": [2018, 600, 283]}]}

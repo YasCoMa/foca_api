@@ -1,0 +1,12 @@
+	Generating mutated amino acid sequence
+	Predicting 2D structure features for reference sequence
+	Predicting 2D structure features for mutated sequence
+	Comparison results for feature Types of 2D structures: see table step3_table_ss3_comparison.tsv
+		Reference: C (Coil) - 0.5493421052631579, E (Strand) - 0.34539473684210525, H (Helix) - 0.10526315789473684
+		Mutated: C (Coil) - 0.5230263157894737, E (Strand) - 0.35855263157894735, H (Helix) - 0.11842105263157894
+	Comparison results for feature Disorder: see table step3_table_diso_comparison.tsv
+		Reference: * (disordered) - 0.02631578947368421, . (ordered) - 0.9736842105263158
+		Mutated: * (disordered) - 0.02631578947368421, . (ordered) - 0.9736842105263158
+	Comparison results for feature Solvent accessibility: see table step3_table_acc_comparison.tsv
+		Reference: E (Exposed) - 0.29276315789473684, B (Bury) - 0.45723684210526316, M (Medium) - 0.25
+		Mutated: E (Exposed) - 0.2993421052631579, B (Bury) - 0.47039473684210525, M (Medium) - 0.23026315789473684

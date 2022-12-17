@@ -1,0 +1,23 @@
+Lineage	Month	Year	Protein	Position	Entropy	AA Group Change	AA Change	Count	Proportion
+B.1.351	1	2021	Spike	18	-0.000	Non Polar to Non Polar	L to F	1	1.0
+B.1.351	1	2021	Spike	215	-0.000	Negative Charge to Non Polar	D to G	1	1.0
+B.1.351	1	2021	Spike	417	-0.000	Positive Charge to Polar	K to N	1	1.0
+B.1.351	1	2021	Spike	152	-0.000	Non Polar to Positive Charge	W to R	1	1.0
+B.1.351	1	2021	Spike	246	-0.000	Positive Charge to Non Polar	R to I	1	1.0
+B.1.351	1	2021	Spike	701	-0.000	Non Polar to Non Polar	A to V	1	1.0
+B.1.351	1	2021	Spike	80	-0.000	Negative Charge to Non Polar	D to A	1	1.0
+B.1.351	1	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	1	1.0
+B.1.351	1	2021	E	71	-0.000	Non Polar to Non Polar	P to L	1	1.0
+B.1.351	1	2021	NSP3	837	-0.000	Positive Charge to Polar	K to N	1	1.0
+B.1.351	1	2021	NSP3	1336	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.351	1	2021	NSP2	50	-0.000	Non Polar to Polar	C to Y	1	1.0
+B.1.351	1	2021	NSP2	85	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.351	1	2021	NSP6	107	-0.000	Non Polar to 	G to del	1	1.0
+B.1.351	1	2021	NSP6	106	-0.000	Polar to 	S to del	1	1.0
+B.1.351	1	2021	NSP6	108	-0.000	Non Polar to 	F to del	1	1.0
+B.1.351	1	2021	N	205	-0.000	Polar to Non Polar	T to I	1	1.0
+B.1.351	1	2021	NS3	57	-0.000	Polar to Positive Charge	Q to H	1	1.0
+B.1.351	1	2021	NS3	41	-0.000	Non Polar to Non Polar	L to V	1	1.0
+B.1.351	1	2021	NS3	171	-0.000	Polar to Non Polar	S to L	1	1.0
+B.1.351	1	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	1	1.0
+B.1.351	1	2021	NSP5	90	-0.000	Positive Charge to Positive Charge	K to R	1	1.0

@@ -1,0 +1,5 @@
+Mutations in reference structure: LA89F,LA220F,KA236R,KA90R,AA260V,TA21I,LA50F,KA88R
+	Mutated 3D structure saved in ../data/nsp5_original_1.pdbResults for structure nsp5_original_1.pdb:
+	RMSD: 1.83112e-15
+
+	Stability: see table in step1_table_stability_comparison.tsv

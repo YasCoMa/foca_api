@@ -1,0 +1,32 @@
+Lineage	Month	Year	Protein	Position	Entropy	AA Group Change	AA Change	Count	Proportion
+B.1.351	6	2021	Spike	215	-0.000	Negative Charge to Non Polar	D to G	4	1.0
+B.1.351	6	2021	Spike	241	-0.000	Non Polar to 	L to del	4	1.0
+B.1.351	6	2021	Spike	242	-0.000	Non Polar to 	L to del	4	1.0
+B.1.351	6	2021	Spike	701	-0.000	Non Polar to Non Polar	A to V	4	1.0
+B.1.351	6	2021	Spike	80	-0.000	Negative Charge to Non Polar	D to A	4	1.0
+B.1.351	6	2021	Spike	614	-0.000	Negative Charge to Non Polar	D to G	4	1.0
+B.1.351	6	2021	Spike	243	-0.000	Non Polar to 	A to del	4	1.0
+B.1.351	6	2021	Spike	222	-0.000	Non Polar to Non Polar	A to V	2	1.0
+B.1.351	6	2021	Spike	1070	-0.000	Non Polar to Polar	A to S	2	1.0
+B.1.351	6	2021	Spike	72	-0.000	Non Polar to Positive Charge	G to R	1	1.0
+B.1.351	6	2021	E	71	-0.000	Non Polar to Non Polar	P to L	4	1.0
+B.1.351	6	2021	NSP3	837	-0.000	Positive Charge to Polar	K to N	4	1.0
+B.1.351	6	2021	NSP3	233	-0.000	Positive Charge to Polar	K to N	1	1.0
+B.1.351	6	2021	NSP3	76	-0.000	Non Polar to Non Polar	G to C	1	1.0
+B.1.351	6	2021	NSP3	307	-0.000	Non Polar to Non Polar	G to C	1	1.0
+B.1.351	6	2021	NSP3	126	-0.000	Polar to Non Polar	S to L	2	1.0
+B.1.351	6	2021	NSP3	358	-0.000	Non Polar to Polar	A to S	1	1.0
+B.1.351	6	2021	NSP6	107	-0.000	Non Polar to 	G to del	4	1.0
+B.1.351	6	2021	NSP6	106	-0.000	Polar to 	S to del	4	1.0
+B.1.351	6	2021	NSP6	108	-0.000	Non Polar to 	F to del	4	1.0
+B.1.351	6	2021	N	205	-0.000	Polar to Non Polar	T to I	4	1.0
+B.1.351	6	2021	NS3	57	-0.000	Polar to Positive Charge	Q to H	4	1.0
+B.1.351	6	2021	NS3	246	-0.000	Non Polar to Non Polar	I to V	1	1.0
+B.1.351	6	2021	NS3	171	-0.000	Polar to Non Polar	S to L	1	1.0
+B.1.351	6	2021	NSP2	85	-0.000	Polar to Non Polar	T to I	4	1.0
+B.1.351	6	2021	NSP2	153	-0.000	Polar to Non Polar	T to M	2	1.0
+B.1.351	6	2021	NSP12	323	-0.000	Non Polar to Non Polar	P to L	4	1.0
+B.1.351	6	2021	NSP1	33	-0.000	Negative Charge to Non Polar	D to G	1	1.0
+B.1.351	6	2021	NSP5	90	-0.000	Positive Charge to Positive Charge	K to R	4	1.0
+B.1.351	6	2021	NS7a	102	-0.000	Non Polar to 	L to del	1	1.0
+B.1.351	6	2021	NS7a	101	-0.000	Non Polar to 	F to del	1	1.0

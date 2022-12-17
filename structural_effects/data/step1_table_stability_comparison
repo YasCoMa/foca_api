@@ -1,0 +1,22 @@
+Decision	Variable	Reference	Mutated
+decreased	BackHbond 	-185.120	-189.190
+decreased	SideHbond 	-47.620	-54.550
+decreased	Energy_VdW 	-352.630	-356.640
+increased	Electro 	-11.160	-10.870
+increased	Energy_SolvP 	467.550	468.720
+decreased	Energy_SolvH 	-462.810	-468.400
+increased	Energy_vdwclash 	28.900	29.870
+decreased	energy_torsion 	14.490	14.010
+increased	backbone_vdwclash	151.670	152.420
+increased	Entropy_sidec 	165.970	173.130
+increased	Entropy_mainc 	464.560	465.670
+same	water bonds 	0.000	0.000
+decreased	helix dipole 	-4.900	-5.730
+same	loop_entropy 	0.000	0.000
+same	cis_bond 	0.000	0.000
+same	disulfide 	0.000	0.000
+same	kn electrostatic	0.000	0.000
+same	partial covalent interactions 	0.000	0.000
+same	Energy_Ionisation 	0.770	0.770
+same	Entropy Complex 	0.000	0.000
+decreased	Total 	77.990	66.790
