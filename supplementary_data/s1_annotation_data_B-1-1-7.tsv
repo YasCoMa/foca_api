@@ -1,0 +1,149 @@
+protein	snp	domain	coordinate	effect	effect_accuracy	ref_aa_group	alt_aa_group	effect_provean	provean_score
+Spike	S1123T			neutral	-67	Polar	Polar	Neutral	0.354
+Spike	Y1067L			effect	62	Polar	Non Polar	Deleterious	-3.582
+Spike	A1080del			-	-	-	-	Deleterious	-7.544
+Spike	I1081del			-	-	-	-	Deleterious	-9.411
+Spike	S1175T			neutral	-89	Polar	Polar	Neutral	1.494
+Spike	S60F			effect	46	Polar	Non Polar	Neutral	-1.660
+Spike	I1216S			neutral	-23	Non Polar	Polar	Deleterious	-4.594
+Spike	F58L			neutral	-58	Non Polar	Non Polar	Neutral	0.166
+N	L352S			neutral	-14	Non Polar	Polar	Neutral	-1.285
+N	L64F			neutral	-24	Non Polar	Non Polar	Neutral	0.545
+NSP3	V1635I			neutral	-84	Non Polar	Non Polar	Neutral	0.094
+NSP3	L257V			effect	6	Non Polar	Non Polar	Neutral	0.242
+NSP3	E29G			neutral	-51	Negative Charge	Non Polar	Neutral	-0.445
+NSP3	G518D			effect	69	Non Polar	Negative Charge	Neutral	-1.100
+NSP3	H1698Q			neutral	-6	Positive Charge	Polar	Neutral	-0.260
+NSP3	D1638N			effect	70	Negative Charge	Polar	Deleterious	-3.598
+NSP3	L247R			effect	91	Non Polar	Positive Charge	Deleterious	-3.112
+NSP3	E230Q			neutral	-69	Negative Charge	Polar	Neutral	-0.801
+NSP3	K223A			effect	3	Positive Charge	Non Polar	Neutral	-0.537
+NSP3	Y213I			neutral	-6	Polar	Non Polar	Neutral	-2.028
+NSP3	K248A			neutral	-16	Positive Charge	Non Polar	Neutral	-1.473
+NSP3	L214K			neutral	-60	Non Polar	Positive Charge	Neutral	0.435
+NSP12	Y770F			neutral	-40	Polar	Non Polar	Neutral	-2.479
+NSP12	L389I			neutral	-92	Non Polar	Non Polar	Neutral	0.179
+NSP12	D269A			neutral	-8	Negative Charge	Non Polar	Deleterious	-6.713
+NSP12	I632T			neutral	-25	Non Polar	Polar	Deleterious	-3.831
+NSP12	Y921del			-	-	-	-	Deleterious	-14.565
+NSP13	P242L			neutral	-47	Non Polar	Non Polar	Deleterious	-4.008
+NSP13	K218N			effect	51	Positive Charge	Polar	Deleterious	-4.773
+NSP13	Y224K			effect	67	Polar	Positive Charge	Neutral	-2.364
+NSP13	E143K			effect	27	Negative Charge	Positive Charge	Deleterious	-3.933
+NSP13	L227M			effect	20	Non Polar	Non Polar	Neutral	-1.967
+NSP13	F81Y			effect	9	Non Polar	Polar	Deleterious	-2.550
+NSP13	G91A			neutral	0	Non Polar	Non Polar	Deleterious	-5.867
+NSP13	G67N			effect	57	Non Polar	Polar	Deleterious	-5.900
+NSP13	F90D			effect	89	Non Polar	Negative Charge	Deleterious	-8.850
+NSP13	C72P			effect	92	Non Polar	Non Polar	Deleterious	-11.800
+NSP13	L63V			neutral	-9	Non Polar	Non Polar	Deleterious	-2.950
+NSP13	Q62H			neutral	-20	Polar	Positive Charge	Neutral	-2.326
+NSP14	C279Y			effect	79	Non Polar	Polar	Deleterious	-10.721
+NSP14	N129K			neutral	-55	Polar	Positive Charge	Neutral	-0.382
+NSP14	C208S			neutral	-50	Non Polar	Polar	Neutral	0.563
+NSP14	T50N			neutral	-48	Polar	Polar	Neutral	-2.393
+NSP14	N518del			-	-	-	-	Deleterious	-14.560
+NSP14	W520F			effect	37	Non Polar	Non Polar	Deleterious	-9.746
+NSP4	N318Y			effect	63	Polar	Polar	Deleterious	-2.616
+NSP4	F337D			effect	73	Non Polar	Negative Charge	Deleterious	-3.267
+E	F23Y			effect	29	Non Polar	Polar	Neutral	-0.800
+NSP1	L53I			neutral	-38	Non Polar	Non Polar	Neutral	-1.584
+NSP1	Y118C			effect	63	Polar	Non Polar	Deleterious	-9.000
+NSP9	E70del			-	-	-	-	Deleterious	-11.658
+NSP9	C73del			-	-	-	-	Deleterious	-16.133
+NSP9	F75del			-	-	-	-	Deleterious	-13.659
+NSP9	R74del			-	-	-	-	Deleterious	-13.063
+NSP9	L69del			-	-	-	-	Deleterious	-10.213
+M	T9A			neutral	-31	Polar	Non Polar	Neutral	-1.056
+NSP16	E173del			-	-	-	-	Deleterious	-14.043
+NSP16	T172del			-	-	-	-	Deleterious	-14.661
+NSP8	E5T			neutral	-42	Negative Charge	Polar	Neutral	-1.733
+NSP8	D30A			neutral	-42	Negative Charge	Non Polar	Neutral	1.075
+NSP15	R135K			neutral	-89	Positive Charge	Positive Charge	Neutral	0.102
+NSP10	F16L			neutral	-56	Non Polar	Non Polar	Neutral	2.263
+Spike	R355Q			effect	35	Positive Charge	Polar	Neutral	-1.720
+NSP3	A886V			neutral	-77	Non Polar	Non Polar	Neutral	-1.580
+NSP3	R885K			neutral	-45	Positive Charge	Positive Charge	Neutral	-0.499
+NSP3	A1S			neutral	-78	Non Polar	Polar	Neutral	-0.439
+NSP3	L877I			neutral	-73	Non Polar	Non Polar	Neutral	-1.002
+NSP12	C842F			effect	50	Non Polar	Non Polar	Deleterious	-3.443
+NSP12	I837V			neutral	-38	Non Polar	Non Polar	Neutral	-0.956
+NSP12	T540N			effect	65	Polar	Polar	Deleterious	-4.917
+NSP12	S239A			neutral	-27	Polar	Non Polar	Deleterious	-2.886
+NSP12	L900S			effect	66	Non Polar	Polar	Deleterious	-5.592
+NSP12	F766V			neutral	-40	Non Polar	Non Polar	Deleterious	-2.533
+NSP12	Q5H			neutral	-16	Polar	Positive Charge	Neutral	-0.729
+NSP12	F429L			neutral	-80	Non Polar	Non Polar	Deleterious	-2.683
+NSP12	N459Y			effect	19	Polar	Polar	Deleterious	-7.681
+NSP2	C229S			effect	46	Non Polar	Polar	Deleterious	-5.667
+NSP2	G637C			effect	20	Non Polar	Non Polar	Deleterious	-8.000
+NSP4	Y46F			neutral	-68	Polar	Non Polar	Neutral	-0.072
+NSP8	L38F			effect	12	Non Polar	Non Polar	Deleterious	-2.933
+NSP8	K72R			neutral	-25	Positive Charge	Positive Charge	Deleterious	-3.000
+NSP8	D52N			effect	39	Negative Charge	Polar	Deleterious	-3.592
+NSP10	C120R			effect	95	Non Polar	Positive Charge	Deleterious	-12.000
+NSP10	Y96del			-	-	-	-	Deleterious	-14.114
+NSP10	F110L			effect	34	Non Polar	Non Polar	Deleterious	-5.560
+M	I168V			neutral	-90	Non Polar	Non Polar	Neutral	0.182
+M	W58F			effect	55	Non Polar	Non Polar	Deleterious	-8.325
+M	L56V			neutral	-70	Non Polar	Non Polar	Neutral	-1.979
+M	L54N			effect	23	Non Polar	Polar	Deleterious	-6.432
+M	Y47del			-	-	-	-	Deleterious	-14.944
+M	K50del			-	-	-	-	Deleterious	-14.041
+NSP15	L311I			neutral	-68	Non Polar	Non Polar	Neutral	-1.492
+NSP5	E290K			effect	73	Negative Charge	Positive Charge	Deleterious	-4.000
+N	G71A			effect	32	Non Polar	Non Polar	Deleterious	-3.881
+N	Y111P			effect	83	Polar	Non Polar	Deleterious	-9.426
+N	R149L			effect	60	Positive Charge	Non Polar	Deleterious	-6.208
+N	W132del			-	-	-	-	Deleterious	-18.998
+N	R259G			effect	44	Positive Charge	Non Polar	Deleterious	-3.063
+N	R277N			effect	80	Positive Charge	Polar	Deleterious	-3.564
+N	G278K			effect	73	Non Polar	Positive Charge	Deleterious	-2.714
+N	T115L			effect	46	Polar	Non Polar	Deleterious	-5.615
+NSP16	G165del			-	-	-	-	Deleterious	-15.501
+NSP16	C51F			effect	24	Non Polar	Non Polar	Deleterious	-8.794
+NSP16	W190G			effect	78	Non Polar	Non Polar	Deleterious	-11.767
+NSP16	S200Y			effect	42	Polar	Polar	Deleterious	-5.633
+NS3	Y215C			neutral	-5	Polar	Non Polar	Neutral	-1.981
+NSP5	Q306K			effect	44	Polar	Positive Charge	Deleterious	-3.824
+NSP5	C85V			neutral	-74	Non Polar	Non Polar	Neutral	-1.349
+NSP5	C16S			effect	87	Non Polar	Polar	Deleterious	-9.963
+NSP5	L250I			neutral	-94	Non Polar	Non Polar	Neutral	-0.437
+NSP14	F33S			effect	66	Non Polar	Polar	Deleterious	-6.180
+NSP14	T475del			-	-	-	-	Deleterious	-14.619
+NSP14	E77G			effect	31	Negative Charge	Non Polar	Deleterious	-3.578
+Spike	F1256L			neutral	-75	Non Polar	Non Polar	Neutral	-0.145
+Spike	F1109Y			neutral	-69	Non Polar	Polar	Neutral	-0.739
+Spike	A1015S			neutral	-83	Non Polar	Polar	Neutral	-0.554
+Spike	K790T			neutral	-56	Positive Charge	Polar	Neutral	0.902
+Spike	V1008A			neutral	-19	Non Polar	Non Polar	Deleterious	-2.942
+Spike	N616K			neutral	-72	Polar	Positive Charge	Neutral	-0.674
+Spike	L611F			effect	55	Non Polar	Non Polar	Neutral	-2.255
+NSP4	G52C			effect	21	Non Polar	Non Polar	Deleterious	-8.056
+NSP4	S496L			effect	15	Polar	Non Polar	Neutral	-2.298
+M	P114L			effect	60	Non Polar	Non Polar	Deleterious	-9.507
+NSP3	R712S			neutral	-22	Positive Charge	Polar	Neutral	-0.321
+NSP3	P484L			effect	38	Non Polar	Non Polar	Neutral	-1.999
+NSP3	K1024R			neutral	-72	Positive Charge	Positive Charge	Neutral	-0.808
+NSP3	R1613K			neutral	-80	Positive Charge	Positive Charge	Neutral	0.833
+NSP3	L1145I			neutral	-73	Non Polar	Non Polar	Neutral	-0.137
+NSP3	E681G			effect	1	Negative Charge	Non Polar	Neutral	-0.690
+NSP3	D471N			effect	17	Negative Charge	Polar	Neutral	-0.642
+NSP3	S1669T			neutral	-25	Polar	Polar	Neutral	-1.733
+NSP3	K294E			effect	15	Positive Charge	Negative Charge	Neutral	-0.263
+NSP3	W1174Y			effect	24	Non Polar	Polar	Deleterious	-3.012
+NSP15	F134del			-	-	-	-	Deleterious	-12.985
+NSP12	C813G			effect	78	Non Polar	Non Polar	Deleterious	-11.469
+NSP12	N64Y			neutral	-61	Polar	Polar	Neutral	-2.478
+NSP12	P834S			neutral	-11	Non Polar	Polar	Deleterious	-6.049
+NSP12	E796D			neutral	-77	Negative Charge	Negative Charge	Neutral	0.104
+NSP12	F77C			neutral	-61	Non Polar	Non Polar	Neutral	-0.200
+NSP12	N695K			effect	63	Polar	Positive Charge	Deleterious	-5.878
+NSP12	A634V			neutral	-5	Non Polar	Non Polar	Deleterious	-3.396
+NSP13	T410I			neutral	-39	Polar	Non Polar	Deleterious	-3.044
+NSP13	K430E			effect	19	Positive Charge	Negative Charge	Neutral	-1.000
+NSP13	T199N			neutral	-49	Polar	Polar	Deleterious	-3.340
+NSP13	F262V			effect	11	Non Polar	Non Polar	Deleterious	-4.770
+NSP7	H36Y			effect	70	Positive Charge	Polar	Deleterious	-6.000
+NSP1	E159K			effect	43	Negative Charge	Positive Charge	Neutral	-0.600
+NSP10	G88V			effect	72	Non Polar	Non Polar	Deleterious	-9.000

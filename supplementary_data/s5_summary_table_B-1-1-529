@@ -1,0 +1,17 @@
+protein	total	count_mis	count_del	count_effect	count_neutral	count_aachange	count_aasame	count_provean_deleterious	count_provean_neutral
+N	1	1	0	0	1	1	0	1	0
+NSP3	10	10	0	7	3	4	6	3	7
+NSP12	18	3	15	0	3	1	2	17	1
+NSP13	7	7	0	5	2	7	0	7	0
+NSP15	1	1	0	1	0	1	0	1	0
+NSP5	4	4	0	4	0	3	1	4	0
+NSP2	4	4	0	2	2	3	1	3	1
+NSP14	5	5	0	4	1	3	2	3	2
+NSP16	9	7	2	4	3	4	3	8	1
+NSP4	5	5	0	2	3	3	2	3	2
+NSP8	9	9	0	5	4	6	3	4	5
+Spike	2	2	0	1	1	1	1	1	1
+M	1	1	0	0	1	0	1	0	1
+NSP7	1	1	0	1	0	1	0	1	0
+NSP9	12	12	0	10	2	5	7	6	6
+NSP10	4	4	0	4	0	1	3	4	0
